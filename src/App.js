@@ -10,7 +10,6 @@ function MyApp() {
     
     <>
     <Header/> 
-    
     <Hero/>
     <Footer/>
     </>
